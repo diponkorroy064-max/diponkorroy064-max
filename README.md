@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diponkor Roy</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
+
 
 - 🔭 I’m currently working on [Pet Adoption Platform](https://pet-adoption-platform-blush.vercel.app)
 
