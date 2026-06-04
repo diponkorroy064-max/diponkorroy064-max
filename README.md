@@ -90,6 +90,8 @@ Pet Haven is a modern pet adoption platform that connects pet adopters with shel
 
 **Tech Stack:** Next.js, React.js, MongoDB, Express.js, Tailwind CSS
 
+---
+
 # 🏢 Tiles Gallery
 
 ### Live Demo
@@ -101,6 +103,8 @@ https://tiles-gallery-project-tan.vercel.app
 Tiles Gallery is a world-class tiling brand in Bangladesh that focuses on blending innovation, quality, and artistry. The website serves as a comprehensive digital catalog and corporate hub for homeowners, architects, and developers looking for high-quality interior and exterior surfacing solutions.
 
 **Tech Stack:** Next.js, React.js, MongoDB, Tailwind CSS
+
+---
 
 # 💼 HireLoop
 
