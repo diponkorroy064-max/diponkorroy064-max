@@ -1,34 +1,185 @@
-<h1 align="center">Hi 👋, I'm Diponkor Roy</h1>
-<h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
+# Hi 👋, I'm Diponkor Roy
 
-- 🔭 I’m currently working on [Pet Adoption Platform](https://pet-adoption-platform-blush.vercel.app)
+### 🚀 Full Stack Developer | React & Next.js Enthusiast
 
-- 🌱 I’m currently learning **Next JS, Node JS, Express JS**
+<img src="https://i.ibb.co/placeholder/banner.jpg" alt="banner" width="100%" />
 
-- 👯 I’m looking to collaborate on [Titles Gallery Project](https://tiles-gallery-project-tan.vercel.app)
-
-- 👨‍💻 All of my projects are available at [https://diponkorroy064-max.github.io/My-first-portfolio](https://diponkorroy064-max.github.io/My-first-portfolio)
-
-- 📝 I regularly Read articles in [https://learn.programming-hero.com/blog](https://learn.programming-hero.com/blog)
-
-- 💬 Ask me about **React, Next JS, Node JS**
-
-- 📫 How to reach me **diponkorroy064@gmail.com**
-
-- 📄 Know about my experiences [https://diponkorroy064-max.github.io/My-first-portfolio](https://diponkorroy064-max.github.io/My-first-portfolio)
-
-- ⚡ Fun fact **Most of the time I learn something in just a funny way**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diponkor roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diponkor roy" height="30" width="40" /></a>
-<a href="https://fb.com/diponkor roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diponkor roy" height="30" width="40" /></a>
-<a href="https://instagram.com/diponkor roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diponkor roy" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.tiktok.com/@your-profile">
+    <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok">
+  </a>
+  <a href="https://www.snapchat.com/add/your-profile">
+    <img src="https://img.shields.io/badge/Snapchat-Add-yellow?style=for-the-badge&logo=snapchat">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diponkorroy064-max&show_icons=true&locale=en&layout=compact" alt="diponkorroy064-max" /></p>
+## 📍 Location & Contact
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diponkorroy064-max&" alt="diponkorroy064-max" /></p>
+📍 Dhaka, Bangladesh
+
+📧 [yourmail@gmail.com](mailto:yourmail@gmail.com)
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate Full Stack Developer specializing in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world products using React, Next.js, Express.js, and modern web technologies.
+
+I love solving problems, learning new technologies, and creating applications that deliver excellent user experiences.
+
+---
+
+## 🌱 Current Activities
+
+* 🔭 Working on advanced Next.js applications
+* 🌱 Exploring AI Automation and AI-powered Web Applications
+* 💻 Building scalable full-stack solutions
+* 🚀 Improving performance optimization techniques
+* 📚 Learning modern backend architecture and system design
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,tailwind,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Social Links
+
+<p align="center">
+<a href="https://linkedin.com/in/your-profile">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🐾 Pet Haven
+
+A modern pet adoption platform connecting pet lovers with shelters and rescue organizations.
+
+**Tech Stack:** Next.js, React.js, MongoDB, Express.js, Tailwind CSS
+
+### 🏢 Tiles Gallery
+
+A premium tile showcase platform helping users discover and explore building and interior design tiles.
+
+**Tech Stack:** Next.js, React.js, MongoDB, Tailwind CSS
+
+### 💼 Job Portal
+
+A full-stack job portal where employers can post jobs and candidates can apply seamlessly.
+
+**Tech Stack:** Next.js, Express.js, MongoDB, Tailwind CSS
+
+# 🐾 Pet Haven
+
+## Live Demo
+
+https://your-live-link.com
+
+## Project Overview
+
+Pet Haven is a modern pet adoption platform that connects pet adopters with shelters and rescue organizations. The platform allows users to browse available pets, submit adoption requests, and manage adoption processes efficiently.
+
+---
+
+## Screenshot
+
+(Add project screenshot here)
+
+![Pet Haven Screenshot](./screenshot.png)
+
+---
+
+## Main Technologies
+
+* Next.js
+* React.js
+* Express.js
+* MongoDB
+* Tailwind CSS
+* JWT Authentication
+
+---
+
+## Features
+
+* User Authentication
+* Pet Listing Management
+* Adoption Request System
+* Responsive Design
+* Search & Filter Functionality
+* Dashboard Management
+
+---
+
+## Dependencies
+
+* Next.js
+* React
+* Express
+* MongoDB
+* Mongoose
+* Tailwind CSS
+* Axios
+* JWT
+* React Hook Form
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/pet-haven.git
+
+cd pet-haven
+
+npm install
+
+npm run dev
+```
+
+## Environment Variables
+
+```env
+MONGODB_URI=
+JWT_SECRET=
+NEXT_PUBLIC_API_URL=
+```
+
+## Relevant Links
+
+* Live Site: https://your-live-link.com
+* Client Repository: https://github.com/yourusername/pet-haven-client
+* Server Repository: https://github.com/yourusername/pet-haven-server
