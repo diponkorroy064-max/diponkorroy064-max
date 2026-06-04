@@ -70,62 +70,49 @@ I love solving problems, learning new technologies, and creating applications th
 </a>
 
 <a href="https://www.facebook.com/share/18eijW3PcU" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" />
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48" />
 </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+# 🐾 Pet Haven
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+### Live Demo
 
----
+https://pet-adoption-platform-blush.vercel.app
 
-## 🚀 Featured Projects
+### Project Overview
 
-### 🐾 Pet Haven
-
-A modern pet adoption platform connecting pet lovers with shelters and rescue organizations.
+Pet Haven is a modern pet adoption platform that connects pet adopters with shelters and rescue organizations. The platform allows users to browse available pets, submit adoption requests, and manage adoption processes efficiently.
 
 **Tech Stack:** Next.js, React.js, MongoDB, Express.js, Tailwind CSS
 
-### 🏢 Tiles Gallery
+# 🏢 Tiles Gallery
 
-A premium tile showcase platform helping users discover and explore building and interior design tiles.
+### Live Demo
+
+https://tiles-gallery-project-tan.vercel.app
+
+### Project Overview
+
+Tiles Gallery is a world-class tiling brand in Bangladesh that focuses on blending innovation, quality, and artistry. The website serves as a comprehensive digital catalog and corporate hub for homeowners, architects, and developers looking for high-quality interior and exterior surfacing solutions.
 
 **Tech Stack:** Next.js, React.js, MongoDB, Tailwind CSS
 
-### 💼 Job Portal
+# 💼 HireLoop
+
+### Live Demo
+
+https://hireloop-client-five.vercel.app
+
+### Project Overview
 
 A full-stack job portal where employers can post jobs and candidates can apply seamlessly.
 
 **Tech Stack:** Next.js, Express.js, MongoDB, Tailwind CSS
-
-# 🐾 Pet Haven
-
-## Live Demo
-
-https://your-live-link.com
-
-## Project Overview
-
-Pet Haven is a modern pet adoption platform that connects pet adopters with shelters and rescue organizations. The platform allows users to browse available pets, submit adoption requests, and manage adoption processes efficiently.
-
----
-
-## Screenshot
-
-(Add project screenshot here)
-
-![Pet Haven Screenshot](./screenshot.png)
 
 ---
 
@@ -140,7 +127,7 @@ Pet Haven is a modern pet adoption platform that connects pet adopters with shel
 
 ---
 
-## Features
+## Features for the Projects
 
 * User Authentication
 * Pet Listing Management
@@ -176,17 +163,3 @@ npm install
 
 npm run dev
 ```
-
-## Environment Variables
-
-```env
-MONGODB_URI=
-JWT_SECRET=
-NEXT_PUBLIC_API_URL=
-```
-
-## Relevant Links
-
-* Live Site: https://your-live-link.com
-* Client Repository: https://github.com/yourusername/pet-haven-client
-* Server Repository: https://github.com/yourusername/pet-haven-server
