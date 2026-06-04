@@ -6,20 +6,20 @@
 
 <p align="center">
   <a href="mailto:diponkorroy064@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   
   <a href="https://www.linkedin.com/in/diponkorroy21010504">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
   <a href="https://x.com/diponkor2025">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x">
-</a>
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
   
- <a href="https://www.facebook.com/share/18eijW3PcU">
+  <a href="https://www.facebook.com/share/18eijW3PcU">
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
+  </a>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 📍 Dhaka, Bangladesh
 
-📧 [yourmail@gmail.com](mailto:yourmail@gmail.com)
+📧 [diponkorroy064@gmail.com](mailto:diponkorroy064@gmail.com)
 
 ---
 
@@ -43,7 +43,7 @@ I love solving problems, learning new technologies, and creating applications th
 ## 🌱 Current Activities
 
 * 🔭 Working on advanced Next.js applications
-* 🌱 Exploring AI Automation and AI-powered Web Applications
+* 🌱 Exploring Vibe coding and AI-powered Web Applications
 * 💻 Building scalable full-stack solutions
 * 🚀 Improving performance optimization techniques
 * 📚 Learning modern backend architecture and system design
@@ -61,12 +61,16 @@ I love solving problems, learning new technologies, and creating applications th
 ## 🌐 Social Links
 
 <p align="center">
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/diponkorroy21010504" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/diponkorroy064-max" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.facebook.com/share/18eijW3PcU" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 </p>
 
