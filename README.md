@@ -5,9 +5,10 @@
 <img src="https://i.ibb.co.com/zWDYLXdm/Git-Hub-Bannar.png" alt="banner" width="100%" />
 
 <p align="center">
-  <a href="mailto:diponkorroy064@gmail.com">
+  <!-- <a href="mailto:diponkorroy064@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  </a> -->
+  [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diponkorroy064@gmail.com)
   
   <a href="https://www.linkedin.com/in/diponkorroy21010504">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
