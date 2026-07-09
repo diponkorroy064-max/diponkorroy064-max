@@ -187,8 +187,8 @@ npm run dev
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=diponkorroy064-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diponkorroy064-max&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github.com/anuraghazra/github-readme-stats?username=diponkorroy064-max&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=diponkorroy064-max&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
