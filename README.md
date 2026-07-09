@@ -78,11 +78,11 @@ I love solving problems, learning new technologies, and creating applications th
 
 ## 🚀 Projects
 
-# 🏠 StayNest
+# 🏠 StayNest - Property Rental Platform
 
 ### Live Demo
 
-https://your-live-demo-link.vercel.app
+https://staynest-six.vercel.app
 
 ### Project Overview
 
@@ -94,7 +94,7 @@ StayNest is a modern rental property management platform that connects property 
 
 # 🐾 Pet Haven
 
-### Live Demo
+### Live Demo - Pet Adoption Platform
 
 https://pet-adoption-platform-blush.vercel.app
 
@@ -106,7 +106,7 @@ Pet Haven is a modern pet adoption platform that connects pet adopters with shel
 
 ---
 
-# 🏢 Tiles Gallery
+# 🏢 Tiles Gallery - Modern Tile Showcase Platform
 
 ### Live Demo
 
