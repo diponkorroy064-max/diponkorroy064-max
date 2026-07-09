@@ -78,6 +78,20 @@ I love solving problems, learning new technologies, and creating applications th
 
 ## 🚀 Projects
 
+# 🏠 StayNest
+
+### Live Demo
+
+https://your-live-demo-link.vercel.app
+
+### Project Overview
+
+StayNest is a modern rental property management platform that connects property owners with tenants. Owners can list and manage rental properties, tenants can browse, book, and manage rentals, while administrators oversee the entire platform through a secure dashboard.
+
+**Tech Stack:** Next.js, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, HeroUI, DaisyUI, Better Auth, JWT, Framer Motion, Stripe
+
+---
+
 # 🐾 Pet Haven
 
 ### Live Demo
