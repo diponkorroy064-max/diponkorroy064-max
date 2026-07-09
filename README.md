@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend Developer(MERN Stack) | React & Next.js Enthusiast
 
-<img src="https://i.ibb.co.com/LzFQWvhh/github-bannar.png" alt="banner" width="100%" />
+<img src="https://i.ibb.co.com/zWDYLXdm/Git-Hub-Bannar.png" alt="banner" width="100%" />
 
 <p align="center">
   <a href="mailto:diponkorroy064@gmail.com">
