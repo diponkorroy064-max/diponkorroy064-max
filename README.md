@@ -1,6 +1,6 @@
 # Hi 👋, I'm Diponkor Roy
 
-### 🚀 Full Stack Developer | React & Next.js Enthusiast
+### 🚀 Frontend Developer(MERN Stack) | React & Next.js Enthusiast
 
 <img src="https://i.ibb.co.com/LzFQWvhh/github-bannar.png" alt="banner" width="100%" />
 
