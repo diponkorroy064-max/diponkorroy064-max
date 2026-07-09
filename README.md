@@ -181,3 +181,30 @@ npm install
 
 npm run dev
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=diponkorroy064-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diponkorroy064-max&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=diponkorroy064-max&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diponkorroy064-max&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
