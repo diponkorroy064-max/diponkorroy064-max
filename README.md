@@ -60,7 +60,7 @@ I love solving problems, learning new technologies, and creating applications th
 
 ## 🌐 Social Links
 
-<p align="center">
+<p align="start">
 <a href="https://www.linkedin.com/in/diponkorroy21010504" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
