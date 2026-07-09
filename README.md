@@ -34,7 +34,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack Developer specializing in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world products using React, Next.js, Express.js, and modern web technologies.
+I am a passionate Frontend Developer (MERN Stack) specializing in building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world products using React, Next.js, Express.js, and modern web technologies.
 
 I love solving problems, learning new technologies, and creating applications that deliver excellent user experiences.
 
