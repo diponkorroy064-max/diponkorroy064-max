@@ -8,6 +8,7 @@
   <!-- <a href="mailto:diponkorroy064@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a> -->
+  
   [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diponkorroy064@gmail.com)
   
   <a href="https://www.linkedin.com/in/diponkorroy21010504">
