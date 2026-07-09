@@ -28,7 +28,7 @@
 
 📍 Dhaka, Bangladesh
 
-📧 [diponkorroy064@gmail.com](mailto:diponkorroy064@gmail.com)
+📧 **Email:** diponkorroy064@gmail.com
 
 ---
 
