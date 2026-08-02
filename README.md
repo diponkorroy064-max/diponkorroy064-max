@@ -69,6 +69,10 @@ I love solving problems, learning new technologies, and creating applications th
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+<a href="https://x.com/diponkor2025" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="48" />
+</a>
+
 <a href="https://www.facebook.com/share/18eijW3PcU" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48" />
 </a>
@@ -86,7 +90,7 @@ https://staynest-six.vercel.app
 
 ### Project Overview
 
-StayNest is a modern rental property management platform that connects property owners with tenants. Owners can list and manage rental properties, tenants can browse, book, and manage rentals, while administrators oversee the entire platform through a secure dashboard.
+StayNest is a modern rental property booking and management platform that connects property owners with tenants. Owners can list and manage rental properties, tenants can browse, book, and manage rentals, while administrators oversee the entire platform through a secure dashboard.
 
 **Tech Stack:** Next.js, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, HeroUI, DaisyUI, Better Auth, JWT, Framer Motion, Stripe
 
@@ -134,17 +138,6 @@ A full-stack job portal where employers can post jobs and candidates can apply s
 
 ---
 
-## Main Technologies
-
-* Next.js
-* React.js
-* Express.js
-* MongoDB
-* Tailwind CSS
-* JWT Authentication
-
----
-
 ## Features for the Projects
 
 * User Authentication
@@ -153,34 +146,6 @@ A full-stack job portal where employers can post jobs and candidates can apply s
 * Responsive Design
 * Search & Filter Functionality
 * Dashboard Management
-
----
-
-## Dependencies
-
-* Next.js
-* React
-* Express
-* MongoDB
-* Mongoose
-* Tailwind CSS
-* Axios
-* JWT
-* React Hook Form
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/pet-haven.git
-
-cd pet-haven
-
-npm install
-
-npm run dev
-```
 
 ---
 
